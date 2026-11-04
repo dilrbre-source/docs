@@ -81,7 +81,7 @@
     "serve": "^14.2.6",
     "tailwindcss": "^4.3.0",
     "typescript": "^6.0.3",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "engines": {
     "node": ">=22.22",
